@@ -1,6 +1,6 @@
 # Scientific-Programming
 
-This is a repo of my scientific computing records.
+This is a repo of my scientific computational records.
 
 Here you'll find code for the following:
 
