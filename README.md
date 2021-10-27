@@ -10,4 +10,4 @@ Here you'll find code for the following:
  - Statistical hypothesis testing.
  - Graph plotting (with error bars and etc..)
 
-Code written in python 3 (Libraries utilized: Numpy, matplotlib, pandas etc..) 
+Code written in python (Libraries utilized: Numpy, matplotlib, pandas etc..) 
