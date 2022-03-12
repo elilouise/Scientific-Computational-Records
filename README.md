@@ -1,4 +1,4 @@
-# Scientific-Programming
+# Data Analysis and Numerical Techniques 
 
 This is a repo of my scientific computational records.
 
